@@ -1,0 +1,19 @@
+HI! Thank for downloading.
+This software is free and can be checked your SAN visualy.
+Only written by C language and only one file.
+SAN figure is just only based on my feeling. Didn't refer any paper of so on.
+ 
+・The whole story to decided to make this software
+I needed to chenk my SAN visualy.
+I could've add more fitures but, I had only a few days and I barely remembering the way to C so, use google too much.
+
+・Liscense
+1.I won't gather your personal info.
+2.Commercial purpose allowed.
+3.I do not take any responsibility not matter what happened.
+4.Programm written by non-native english speaker.
+
+・Vision after this softwares ver 0.01
+I'd like to make for common users(especially definition of figure "SAN" and add more fitures.
+Personal one which is medical one might be upload.(Do not take responsibility and better to talk deeply with you doc.)
+
